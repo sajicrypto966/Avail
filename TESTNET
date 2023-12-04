@@ -1,4 +1,4 @@
-1. Install Dependecies: LFG
+1. Install Dependecies:
 
    sudo apt-get -y update &&
    sudo apt-get install screen -y &&
